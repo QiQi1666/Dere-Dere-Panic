@@ -29,7 +29,9 @@ label start:
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
-    e "Hello! If you can see this then it works!"
+    h "Hello! If you can see this then it works!"
+
+    h "Does the GitHub work too?"
 
     # This ends the game.
 
